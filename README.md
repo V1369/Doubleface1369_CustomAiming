@@ -1,1 +1,2 @@
 # Doubleface1369_CustomAiming
+This mods changes some calculations done in game to have better aiming. If your pawn with 15 shooting skill misses 2 out of 3 shots, this mod will make him stop missing those shots. Udderly Evenlyn already made a mod like this, the difference is that this mod allows you to choose from a scale up to 8 times the original accuracy and it doesn't have dependency on harmony so it should improve performance in the big scale of all things.
